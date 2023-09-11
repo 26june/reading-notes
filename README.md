@@ -6,9 +6,9 @@ This is the belief that nothing is set in stone. You may not be able to do a cer
 
 You have a growth mindset if you:
 
-[x] Embrace Challenges
-[x] Believe that you can train your brain
-[x] Believe that effor is the path to mastery
-[x] Learn from feedback
-[x] Inspire by success of others
+- [x] Embrace Challenges
+- [x] Believe that you can train your brain
+- [x] Believe that effor is the path to mastery
+- [x] Learn from feedback
+- [x] Inspire by success of others
 
