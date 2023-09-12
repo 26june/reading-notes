@@ -1,4 +1,4 @@
-# Tech Educators Notes
+# My Notes
 
 [about-me](https://26june.github.io/reading-notes/about)
 
