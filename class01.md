@@ -1,4 +1,4 @@
-# reading-notes
+# Markdown
 
 ## Growth Mindset
 
