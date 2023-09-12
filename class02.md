@@ -1,1 +1,1 @@
-# Visual Studio and CLI
+# Visual Studio Code and CLI
